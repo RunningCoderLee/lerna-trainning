@@ -1,6 +1,6 @@
 {
   "name": "@runningcodertest/lerna-module-b",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "RunningCoderLee <sprint_l@aliyun.com>",
   "homepage": "https://github.com/RunningCoderLee/lerna-trainning#readme",
@@ -29,7 +29,7 @@
     "url": "https://github.com/RunningCoderLee/lerna-trainning/issues"
   },
   "dependencies": {
-    "@runningcodertest/lerna-core": "^0.0.0",
+    "@runningcodertest/lerna-core": "^0.1.0",
     "word-wrap": "^1.2.3"
   }
 }
