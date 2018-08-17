@@ -75,3 +75,5 @@ typings/
 # Editor files
 .history
 .vscode
+
+package-lock.json
