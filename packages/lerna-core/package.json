@@ -21,9 +21,15 @@
     "url": "git+https://github.com/RunningCoderLee/lerna-trainning.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "prepublish": "echo core-repo execute prepublish",
+    "prepare": "echo core-repo execute prepare"
   },
   "bugs": {
     "url": "https://github.com/RunningCoderLee/lerna-trainning/issues"
+  },
+  "dependencies": {
+    "redux": "^4.0.0",
+    "word-wrap": "^1.2.3"
   }
 }
