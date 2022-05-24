@@ -1,7 +1,8 @@
-'use strict';
+'use strict'
 
-module.exports = lernaModuleA;
+module.exports = lernaModuleA
 
 function lernaModuleA() {
-    // TODO
+  // TODO
+  console.log(111)
 }
